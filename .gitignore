@@ -39,3 +39,5 @@ firebase.json
 # Temporary files
 tmp/
 temp/
+
+.firebase
