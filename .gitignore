@@ -40,4 +40,4 @@ firebase.json
 tmp/
 temp/
 
-.firebase
+.firebase/
